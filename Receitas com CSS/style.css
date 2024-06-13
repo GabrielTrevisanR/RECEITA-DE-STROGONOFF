@@ -1,0 +1,53 @@
+body{
+    background: linear-gradient(to bottom, #DEA95B, rgb(106, 106, 106));
+    background-attachment: fixed;
+    padding-left: 10px;
+   
+    
+    
+}
+
+ol, ul{
+    background-color: #ffffff;
+    border-radius: 8px;
+    width: 260px;
+    padding: 30px;
+    
+
+    
+}
+  
+
+
+
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 65px;
+
+    
+}
+
+img{
+    position: absolute;
+    top: 58%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    border-radius: 28px;
+    width: 500px;
+    height: 360px;
+   }
+
+
+.vast-shadow-regular{
+    font-family: "Vast Shadow", serif;
+    font-weight: 400;
+    font-style: normal;
+   }
+
+ul:hover{
+    box-shadow:2px 2px 12px 4px black; 
+}
+
+ol:hover{
+    box-shadow:2px 2px 12px 4px black; 
+}
